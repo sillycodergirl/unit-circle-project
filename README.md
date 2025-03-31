@@ -1,7 +1,14 @@
+
 # Unit Circle Project
 
 lol i cant figure out how to put this on a website so just build it yourself :3
 
+## About the project
+Made for a AP Precalc project.
+This project uses the `Haxe` programming language and the `HaxeFlixel` 2D game framework. 
+Love the developers of these <3
+
+## Setup Instructions
 ***Language***: `Haxe 4.2.5`
 
 Read this to get the libs setup:
